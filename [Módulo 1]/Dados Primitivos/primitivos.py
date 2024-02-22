@@ -24,3 +24,18 @@ numero_pi = 3.14159
 
 print ("Ano da revolução cubana:", rev_cubana)
 print ('Valor de PI:', numero_pi)
+
+
+# Valores verdadeiros ou falsos também estão inclusos, os chamados valores 'booleanos'
+
+falso_ou_verdadeiro = False
+
+print("Che Guevara matava gays?", falso_ou_verdadeiro)
+
+# Valores nulos também existem em Python
+
+nulo = None
+
+print('Erro', nulo, 'usuario não encontrado')
+
+
