@@ -2,22 +2,28 @@
 
 ![Python Imagem](https://apexensino.com.br/wp-content/uploads/2020/05/python.jpg)
 
-## Módulos
+### Módulo 1 
+* Entrada de dados e Operadores
+    * [Olá, Mundo!](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Hello/hello.py)
+    * [Entrada do usuário](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Entrada%20de%20Usu%C3%A1rio/entrada.py)
+    * [Operadores](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Operadores/operadores.py)
+* Desafio
+### Módulo 2
+* Tipos de dados
+    * [Dados primitivos](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%202/Dados%20Primitivos/primitivos.py)
+    * [Listas](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%202/Listas/listas.py)
+* Desafio
+### Módulo 3
+* Controle de Fluxo
+    * [If e Else](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/If%20e%20Else/ifelse.py)
+    * [While](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/While/while.py)
+    * [For](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/Loop%20For/loopfor.py)
+* Desafio
 
-* Módulo 1 - Tipos e Entrada de Dados
-    * [Olá, Mundo](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%201%5D/Hello/hello.py)
-    * [Dados Primitos](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%201%5D/Dados%20Primitivos/primitivos.py)
-    * [Entrada de Usuário](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%201%5D/Entrada%20de%20Usu%C3%A1rio/entrada.py)
-    * [Operadores](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%201%5D/Operadores/operadores.py)
-    * [Listas](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%201%5D/Listas/listas.py)
-* Módulo 2 - Controle de Fluxo
-    * [If e Else](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%202%5D/If%20e%20Else/ifelse.py)
-    * [Loop For](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%202%5D/Loop%20For/loopfor.py)
-    * [Loop While](https://github.com/whoxer/curso-python/blob/main/%5BM%C3%B3dulo%202%5D/While/while.py)
 
 ## Sobre o Repositório
 
-Estou criando e desenvolvendo este repositório juntamente com o meu amigo [Esdras](https://github.com/Esdras101) com o objetivo de deixar aqui parte dos códigos e conceitos que serão reproduzidos nas aulas e demais instâncias do curso.
+Estou criando e desenvolvendo este repositório com o objetivo de deixar aqui parte dos códigos e conceitos que serão reproduzidos nas aulas e demais instâncias do curso.
 
 ## Sobre o Curso
 
