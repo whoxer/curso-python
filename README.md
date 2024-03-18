@@ -8,17 +8,20 @@
     * [Entrada do usuário](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Entrada%20de%20Usu%C3%A1rio/entrada.py)
     * [Operadores](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Operadores/operadores.py)
 * Desafio
+    * [Calculadora](#)
 ### Módulo 2
 * Tipos de dados
     * [Dados primitivos](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%202/Dados%20Primitivos/primitivos.py)
     * [Listas](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%202/Listas/listas.py)
 * Desafio
+    * [Listas de tarefas](#)
 ### Módulo 3
 * Controle de Fluxo
     * [If e Else](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/If%20e%20Else/ifelse.py)
     * [While](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/While/while.py)
     * [For](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%203/Loop%20For/loopfor.py)
 * Desafio
+    * [Desafio M3](#)
 
 
 ## Sobre o Repositório
