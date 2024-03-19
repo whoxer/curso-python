@@ -1,4 +1,6 @@
-# Tipos de Dados - Entrada De Usuário
+# Módulo 1 - Entrada do Usuário
+
+# Aqui você pode inserir 
 
 # Inserção de nome de usuário
 nome = str(input("> Digite seu nome:\n> "))
