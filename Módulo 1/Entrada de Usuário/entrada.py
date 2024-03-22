@@ -1,12 +1,6 @@
 # Módulo 1 - Entrada do Usuário
 
-# Aqui você pode inserir 
+nome = str(input("> Qual o seu nome?: "))
+idade = int(input("> Quantos anos você tem?: "))
 
-# Inserção de nome de usuário
-nome = str(input("> Digite seu nome:\n> "))
-
-# Inserção de número inteiro
-idade = int(input("> Digite sua idade:\n> "))
-
-# Aqui podemos passar como parâmetro
 print("> Olá", nome, "você tem", idade, "anos!")
