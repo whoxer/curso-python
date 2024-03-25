@@ -6,7 +6,8 @@
 * Entrada de dados e Operadores
     * [Olá, Mundo!](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Hello)
     * [Entrada do usuário](https://github.com/whoxer/curso-python/blob/main/M%C3%B3dulo%201/Entrada%20de%20Usu%C3%A1rio/)
-    * [Operadores Aritméticos]((https://github.com/whoxer/curso-python/tree/main/M%C3%B3dulo%201/Operadores%20Matem%C3%A1ticos))
+    * [Operadores Aritméticos](https://github.com/whoxer/curso-python/tree/main/M%C3%B3dulo%201/Operadores%20Arim%C3%A9ticos)
+    * [Operadores Comparativos]()
 * Desafio
     * [Calculadora](#)
 ### Módulo 2
