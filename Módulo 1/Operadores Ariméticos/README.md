@@ -32,4 +32,4 @@ ou
     print(texto * 4)
 ```
 
-Note que ao final de ```texto = 'Cuba livre!\n'```foi adicionado um ``'\n'``, isso é um "newline", quer dizer que todo final de frase impressa pelo ``print()``ele vai pular uma linha.
+Note que ao final de ```texto = 'Cuba livre!\n'```foi adicionado um ``'\n'``, isso é um "newline", quer dizer que todo final de frase impressa pelo ``print()`` ele vai pular uma linha.
